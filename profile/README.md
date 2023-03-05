@@ -18,12 +18,6 @@ Guilded-rs is a powerful, flexible and scalable ecosystem of Rust libraries for 
 
 **Repository:** https://github.com/TeamHarTex/guilded-rs
 
-### IronJVM
-
-IronJVM is the JVM for the future.
-
-**Repository:** https://github.com/TeamHarTex/IronJVM
-
 ## Support and Socials
 
 Discord Server: [Link](https://discord.gg/Xu8453VBAv)

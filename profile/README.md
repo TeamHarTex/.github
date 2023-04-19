@@ -12,12 +12,6 @@ HarTex is the speed-of-thought server management bot for Discord.
 
 **Repository:** https://github.com/TeamHarTex/HarTex
 
-### guilded-rs
-
-Guilded-rs is a powerful, flexible and scalable ecosystem of Rust libraries for the Guilded API.
-
-**Repository:** https://github.com/TeamHarTex/guilded-rs
-
 ## Support and Socials
 
 Discord Server: [Link](https://discord.gg/Xu8453VBAv)

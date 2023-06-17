@@ -1,6 +1,6 @@
 <h1 align="center">Team HarTex</h1>
 
-![Metrics](../github-metrics.svg)
+![Metrics](https://github.com/TeamHarTex/.github/blob/main/github-metrics.svg)
 
 We are a development team built around the HarTex community.
 

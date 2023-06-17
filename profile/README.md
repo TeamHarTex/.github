@@ -1,5 +1,7 @@
 <h1 align="center">Team HarTex</h1>
 
+![Metrics](../github-metrics.svg)
+
 We are a development team built around the HarTex community.
 
 This is our GitHub organization where we host all of our current, previous and future projects.

@@ -10,7 +10,7 @@ This is our GitHub organization where we host all of our current, previous and f
 
 ### HarTex
 
-HarTex is the speed-of-thought server management bot for Discord.
+Discord server management, reimagined.
 
 **Repository:** https://github.com/TeamHarTex/HarTex
 
